@@ -1,6 +1,6 @@
 a = int(input('Class math_1 size is '))
 b = int(input('Class math_2 size is '))
-c = int(input('Class math_2 size is '))
+c = int(input('Class math_3 size is '))
 print('\n')
 x = a + b + c
 if a > 0 and b > 0 and c > 0:
