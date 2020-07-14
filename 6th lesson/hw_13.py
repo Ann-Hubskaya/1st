@@ -11,7 +11,7 @@ import random
 
 a = [random.randint(1, 50) for _ in range(15)]
 print(a)
-k = int(input('Please enter your number (>= 0 and <={}: - '.format(len(a)-1)))
+k = int(input('Please enter your number (>= 0 and <={}): - '.format(len(a)-1)))
 print ('k = ', k)
 C = int(input('Please enter your number C - '))
 
